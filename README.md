@@ -4,10 +4,6 @@
 
 This project is a part of Lab 1 for CS640 Fall 2022 at the University of Wisconsin - Madison. The objective of this lab is to understand network performance by implementing a custom version of Iperf called Iperfer using Java sockets. The project involves measuring network bandwidth in both wired and wireless environments, as well as within virtual networks created using Mininet.
 
-### Team Members
-- **Name 1**: [CS Username 1]
-- **Name 2**: [CS Username 2] (if applicable)
-
 ### Learning Outcomes
 
 - Write applications that use sockets to transmit and receive data across a network.

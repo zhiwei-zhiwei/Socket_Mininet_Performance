@@ -1,4 +1,4 @@
-## Project: Iperfer - Network Bandwidth Measurement Tool
+## Iperfer - Network Bandwidth Measurement Tool
 
 ### Overview
 
